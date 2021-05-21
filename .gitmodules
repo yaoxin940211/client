@@ -6,3 +6,7 @@
 	path = scene
 	url = git@github.com:yaoxin940211/scene.git
 	ignore = all
+[submodule "Art/scene"]
+	path = Art/scene
+	url = git@github.com:yaoxin940211/scene.git
+	ignore = all
